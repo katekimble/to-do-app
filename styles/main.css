@@ -1,0 +1,10 @@
+body {
+  font-size: 1.6rem;
+  max-width: 600px;
+  margin: 2rem;
+  margin: auto;
+}
+
+.mdl-textfield__input, .mdl-button {
+  margin-top: 2rem;
+}
